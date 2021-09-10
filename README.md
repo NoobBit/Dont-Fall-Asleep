@@ -1,9 +1,10 @@
 # Don’t-Fall-Asleep
 Don't fall asleep! is a program I made to make your computer not fall asleep while you keep it on. Basically, if you’re running an autoclicker, or in a online meeting or something else this can be used to keep your computer on. How it works is by moving the mouse every 10 seconds (The Customizable delay feature will be implemented later in the development) which would keep the computer awake as long as you want. This allows you to relax in boring meetings, get billions of cookies, or something else.
 
-#Version
-2021.9.9.0
+# Information
+Version: 2021.9.9.0
+Creator: NoobBit
 
-#Warnings
+# Warnings
  - I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED BY: Don't fall asleep!
  - DO NOT LEAVE YOUR COMPUTER UNPLUGGED WITH Don't fall asleep! RUNNING. THIS WILL CAUSE THE COMPUTER TO DIE
